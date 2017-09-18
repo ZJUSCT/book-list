@@ -27,3 +27,6 @@
 | 程序员的自我修养               |
 | TCP/IP 详解 卷一：协议        |
 | TCP/IP 详解 卷二           |
+| Haskell函数式编程入门 |
+| JavaScript权威指南 |
+| Linux命令行与shell脚本编程大全 |
